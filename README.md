@@ -1,1 +1,1 @@
-#App para visualização de dados (Streamlit)
+# App para visualização de dados (Streamlit)
